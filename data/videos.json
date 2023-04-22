@@ -1,0 +1,33 @@
+{
+	"videos" : [
+					{
+						"id" : 1,
+						"title": "Thumkeshwari",
+						"thumbnail": "https://i.ytimg.com/vi/7gBCBRolC-I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdU1SiOv22jED-5x7nKtDi175sdA",
+						"media" : "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_stereo.avi",
+						"duration" : "00:01:40"
+					},
+					{
+						"id" : 2,
+						"title": "Thumkeshwari",
+						"thumbnail": "https://i.ytimg.com/vi/7gBCBRolC-I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdU1SiOv22jED-5x7nKtDi175sdA",
+						"media" : "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_stereo.avi",
+						"duration" : "00:01:40"
+					},
+					{
+						"id" : 3,
+						"title": "Thumkeshwari",
+						"thumbnail": "https://i.ytimg.com/vi/7gBCBRolC-I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdU1SiOv22jED-5x7nKtDi175sdA",
+						"media" : "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_stereo.avi",
+						"duration" : "00:01:40"
+					},
+					{
+						"id" : 4,
+						"title": "Thumkeshwari",
+						"thumbnail": "https://i.ytimg.com/vi/7gBCBRolC-I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdU1SiOv22jED-5x7nKtDi175sdA",
+						"media" : "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_stereo.avi",
+						"duration" : "00:01:40"
+					}
+				]
+}
+
