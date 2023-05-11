@@ -1,0 +1,70 @@
+{
+    "sanju2001" : [
+        {
+            "id" : 1,
+            "media" : "https://img.youtube.com/vi/YKuEejpCNjw/maxresdefault.jpg",
+            "begin_ts" : "00:00:10",
+            "duration" : 5,
+            "type" : "l-banner",
+            "shrink_pct" : 25,
+            "track_plugins" : [
+                "ziyu",
+                "google"
+            ]
+        },
+        {
+            "id" : 2,
+            "media" : "https://img.youtube.com/vi/YKuEejpCNjw/maxresdefault.jpg",
+            "begin_ts" : "00:00:40",
+            "duration" : 5,
+            "type" : "l-banner",
+            "shrink_pct" : 25,
+            "track_plugins" : [
+                "ziyu",
+                "google"
+            ]
+        }
+    ],
+    "rohit1982" : [
+        {
+            "id" : 3,
+            "media" : "https://img.youtube.com/vi/YKuEejpCNjw/maxresdefault.jpg",
+            "begin_ts" : "00:00:20",
+            "duration" : 5,
+            "type" : "l-banner",
+            "shrink_pct" : 25,
+            "track_plugins" : [
+                "ziyu",
+                "google"
+            ]
+        }
+    ],
+    "sonali1992" : [
+        {
+            "id" : 4,
+            "media" : "https://img.youtube.com/vi/YKuEejpCNjw/maxresdefault.jpg",
+            "begin_ts" : "00:00:20",
+            "duration" : 5,
+            "type" : "l-banner",
+            "shrink_pct" : 25,
+            "track_plugins" : [
+                "ziyu",
+                "google"
+            ]
+        }
+    ],
+    "kamla1955" : [
+        {
+            "id" : 5,
+            "media" : "https://img.youtube.com/vi/YKuEejpCNjw/maxresdefault.jpg",
+            "begin_ts" : "00:00:50",
+            "duration" : 5,
+            "type" : "l-banner",
+            "shrink_pct" : 25,
+            "track_plugins" : [
+                "ziyu",
+                "google"
+            ]
+        }
+    ]
+}

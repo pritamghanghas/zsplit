@@ -1,0 +1,44 @@
+{
+    "profiles": [
+        {
+            "username" : "sanju2001"
+            "name" : "Sanju Samson",
+            "phone" : "01385-66-7011",
+            "age" : 22,
+            "sex" : "M",
+            "location" : "kerala",
+            "interests" : "thriller, adult",
+            "purchasing_power" : "high"
+        },
+        {
+            "username" : "rohit1982",
+            "name" : "Rohit Sharma",
+            "phone" : "01385-66-7011",
+            "age" : 39,
+            "sex" : "M",
+            "location" : "mumbai",
+            "interests" : "romantic, cricket, action, sci-fi",
+            "purchasing_power" : "upper-mid"
+        },
+        {
+            "username" : "sonali1992",
+            "name" : "Sonali Jain",
+            "phone" : "01385-66-7011",
+            "age" : 30,
+            "sex" : "F",
+            "location" : "delhi",
+            "interests" : "rom-com, drama, indian-drama, ",
+            "purchasing_power" : "mid"
+        },
+        {
+            "username" : "kamla1955",
+            "name" : "Kamla Bharat",
+            "phone" : "01385-66-7011",
+            "age" : 60,
+            "sex" : "F",
+            "location" : "assam",
+            "interests" : "bhakti, desi-drama, regional",
+            "purchasing_power" : "low"
+        }
+    ]
+}
